@@ -17,7 +17,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"></a>
   <a href="#"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"></a>
   <br><br>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=page.id">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=adnankhanakib">
 </p>
 
 <!-- <details>
