@@ -7,14 +7,13 @@
   <br><br>
   <a href="https://github.com/adnankhanakib/"><img src="https://github-readme-stats.vercel.app/api?username=adnankhanakib&show_icons=true&count_private=true&theme=dark"></a>
   <br><br>
-  Languages I use<br>
+  Languages I know<br>
   <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=whiten"></a>
   <a href="#"><img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/Node.JS-68a603?style=for-the-badge&logo=node.js&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"></a>
   <a href="#"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"></a>
   <br><br>
   <img src="https://visitor-badge.glitch.me/badge?page_id=adnankhanakib">
