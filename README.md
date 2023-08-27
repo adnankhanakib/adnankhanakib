@@ -2,7 +2,7 @@
 <p align="center">  
   I am a self tought backend developer from Bangladesh 🇧🇩.<br><br>
    <a href="https://facebook.com/akibkhan007"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href="https://instagram.com/adnankhanaki"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://instagram.com/adnankhanakib"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.hackerrank.com/adnankhanakib"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
   <br><br>
   <a href="https://github.com/adnankhanakib/"><img src="https://github-readme-stats.vercel.app/api?username=adnankhanakib&show_icons=true&count_private=true&theme=dark"></a>
