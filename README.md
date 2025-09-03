@@ -15,8 +15,6 @@
   <a href="#"><img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/Node.JS-68a603?style=for-the-badge&logo=node.js&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"></a>
-  <br><br>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=adnankhanakib">
 </p>
 
 <!-- <details>
